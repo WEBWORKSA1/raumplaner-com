@@ -1,0 +1,3 @@
+title: Raumplaner.com
+lang: de
+exclude: [README.md, docs, tools, BUILD-PROMPT.md]

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raumplaner.com/sitemap.xml
